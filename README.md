@@ -9,11 +9,11 @@
 2. [Digitale Ressourcen](#digitale-ressourcen)
    - [Grafiken](#grafiken)
    - [CAD](#cad)
-   - [Tools und Programme](#tools-und-programme)
-     - [Produktivität](#produktivität)
-     - [Bilder und Videos](#bilder-und-videos)
-     - [Elektronik](#elektronik-1)
-     - [Programmieren](#programmieren)
+3. [Tools und Programme](#tools-und-programme)
+  - [Produktivität](#produktivität)
+  - [Bilder und Videos](#bilder-und-videos)
+  - [Elektronik](#elektronik-1)
+  - [Programmieren](#programmieren)
 
 ## Komponentenlieferanten
 
@@ -41,17 +41,17 @@
 ### CAD 
 - [GrabCAD](https://grabcad.com/) - Community für CAD-Dateien und 3D-Modelle.
 
-### Tools und Programme
+## Tools und Programme
 
-#### Produktivität
+### Produktivität
 - [ChatGPT](https://openai.com/chatgpt/) - KI-Dialogagent für Gespräche und Textgenerierung.
 - [draw.io](https://www.diagrams.net/) - Online-Tool für Diagramme und Flussdiagramme.
 
-#### Bilder und Videos 
+### Bilder und Videos 
 - [Canva](https://www.canva.com/) - Online-Editor für Grafiken und Präsentationen.
 
-#### Elektronik
+### Elektronik
 - [EasyEDA](https://easyeda.com/) - Tool für Schaltplan- und Leiterplattendesign.
 
-#### Programmieren
+### Programmieren
 - [OnlineGDB](https://www.onlinegdb.com/) - Online-Compiler und Debugger.
