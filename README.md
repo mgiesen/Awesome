@@ -15,7 +15,7 @@
   - [Elektronik](#elektronik-1)
   - [Programmieren](#programmieren)
   - [Übersetzung](#übersetzung)
-  - 
+    
 ## Komponentenlieferanten
 
 ### Elektronik
