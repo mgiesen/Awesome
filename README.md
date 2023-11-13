@@ -14,7 +14,8 @@
   - [Bilder und Videos](#bilder-und-videos)
   - [Elektronik](#elektronik-1)
   - [Programmieren](#programmieren)
-
+  - [Übersetzung](#übersetzung)
+  - 
 ## Komponentenlieferanten
 
 ### Elektronik
@@ -55,3 +56,8 @@
 
 ### Programmieren
 - [OnlineGDB](https://www.onlinegdb.com/) - Online-Compiler und Debugger.
+
+### Übersetzung
+- [DeepL](https://www.deepl.com/) - Leistungsstarker Übersetzungsdienst mit hoher Genauigkeit.
+- [Linguee](https://www.linguee.com/) - Wörterbuch, geeignet für Fachbegriff Übersetzung. 
+
