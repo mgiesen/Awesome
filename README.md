@@ -2,28 +2,9 @@
 
 ## Inhaltsverzeichnis
 1. [Komponentenlieferanten](#komponentenlieferanten)
-   - [Elektronik](#elektronik)
-   - [Automatisierung](#automatisierung)
-   - [Pneumatik](#pneumatik)
-   - [Normteile](#normteile)
 2. [Digitale Ressourcen](#digitale-ressourcen)
-   - [Grafiken](#grafiken)
-   - [CAD](#cad)
 3. [Tools und Programme](#tools-und-programme)
-   - [Produktivität](#produktivität)
-   - [Bilder und Videos](#bilder-und-videos)
-   - [Elektronik](#elektronik-1)
-   - [Programmieren](#programmieren)
-   - [Übersetzung](#übersetzung)
 4. [Technische YouTube Kanäle](#youtube-kanäle)
-   - [Maker Projektkanäle](#maker-projektkanäle)
-   - [Technologie und Wissenschaft](#technologie-und-wissenschaft)
-   - [Schwerpunkt Lernen](#schwerpunkt-lernen)
-      - [Technik Allgemein](#technik-allgemein)
-      - [Elektronik, Computer- und Digitaltechnik](#elektronik-computer-und-digitaltechnik)
-      - [IT](#it)
-      - [Programmieren](#programmieren-1)
-      - [3D Druck](#3d-druck)
 
 ## Komponentenlieferanten
 
