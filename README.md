@@ -46,6 +46,7 @@
 
 - [ChatGPT](https://openai.com/chatgpt/) - KI-Dialogagent für Gespräche und Textgenerierung.
 - [draw.io](https://www.diagrams.net/) - Online-Tool für Diagramme und Flussdiagramme.
+- [ZoomIt](https://learn.microsoft.com/de-de/sysinternals/downloads/zoomit) - Freeware zur Screen-Annotation und Bildschirmaufnahme 
 
 ### Bilder und Videos
 
@@ -58,6 +59,7 @@
 ### Programmieren
 
 - [OnlineGDB](https://www.onlinegdb.com/) - Online-Compiler und Debugger.
+- [vcpkg](https://vcpkg.io/en/) - C/C++ Paket manager 
 
 ### Übersetzung
 
