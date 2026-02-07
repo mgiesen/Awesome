@@ -46,7 +46,8 @@
 
 - [ChatGPT](https://openai.com/chatgpt/) - KI-Dialogagent für Gespräche und Textgenerierung.
 - [draw.io](https://www.diagrams.net/) - Online-Tool für Diagramme und Flussdiagramme.
-- [ZoomIt](https://learn.microsoft.com/de-de/sysinternals/downloads/zoomit) - Freeware zur Screen-Annotation und Bildschirmaufnahme 
+- [ZoomIt](https://learn.microsoft.com/de-de/sysinternals/downloads/zoomit) - Freeware zur Screen-Annotation und Bildschirmaufnahme
+- [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Gerendertes Markdown in der Mac Vorschau
 
 ### Bilder und Videos
 
